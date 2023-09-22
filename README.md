@@ -5,15 +5,19 @@ We want to get a better understanding of your technical ability, your knowledge 
 
 ## The Task
 Create the page in this figma file https://www.figma.com/file/KtBU8nxyxgN4yLJvYvy1aw/Test-Mandeep?node-id=0%3A1&mode=dev
+* Filipe added certain comments for some functionality
+* The hero banner content should have the ability to be aligned left, center, right.
+* the open roles section needs to be working including the load more and search. You can add demo roles for presentation. 
 ## Requirements
 We'll be looking for the following requirements:
 * Use this repo as a base theme
 * Use github to keep track of your changes, opening a PR would be a great idea!
-* The section is Shopify OS2.0 compatible
+* Do not edit directly into the theme intead clone this repo and branch from main followed by a PR into main.
+* The sections should be Shopify OS2.0 compatible
+* Use Tailwind with postCSS. (Don't use play CDN)
 * All code (Liquid/HTML, TailwindCss, and JS) is clean, semantic, well organized, and doesn't introduce unnecessary bloat
 * Layout is fully responsive and looks good at all browser sizes
 * Code uses modern features supported by a majority of ever green browsers
-* Product items/cards should be built from scratch, don't reuse the cards already built into the theme :)
 
 ## Test Submission
 Feel free to do this on your own dev store but we will provide a collaborator account access to a dev store already populated with products. I
