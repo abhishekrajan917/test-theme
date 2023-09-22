@@ -4,6 +4,7 @@ This is a simple technical interview test meant for Shopify theme developer cand
 We want to get a better understanding of your technical ability, your knowledge of Shopify theme development, and a bit of your process when developing new features. We need pixel perfect design, and someone who pays attention to detail.
 
 ## The Task
+Create the page in this figma file https://www.figma.com/file/KtBU8nxyxgN4yLJvYvy1aw/Test-Mandeep?node-id=0%3A1&mode=dev
 ## Requirements
 We'll be looking for the following requirements:
 * Use this repo as a base theme
