@@ -1,7 +1,7 @@
 # Transformer Table Technical Test
 This is a simple technical interview test meant for Shopify theme developer candidates. The test is built using Shopify's Dawn theme as a base, though the test should be theme agnostic.
 ## Our Goal
-We want to get a better understanding of your technical ability, your knowledge of Shopify theme development, and a bit of your process when developing new features. We are not looking for pixel perfect here, but a general eye for design and what looks good vs what doesn't is important.
+We want to get a better understanding of your technical ability, your knowledge of Shopify theme development, and a bit of your process when developing new features. We need pixel perfect design, and someone who pays attention to detail.
 
 ## The Task
 ## Requirements
@@ -19,7 +19,7 @@ Feel free to do this on your own dev store and it would be best if you create a 
 
 Your PR can include an explanation for anything that might need some extra clarity.
 
-The test is designed to be straightforward and open to interpretation, but please submit this test latest by friday. We're hoping that by providing the base theme and Shopify dev store access you'll have everything you need to do the test with minimal setup. We're not looking for perfection, we're looking for knowledge and problem solving skills.
+The test is designed to be straightforward and open to interpretation, but please submit this test latest by friday. We're hoping that by providing the base theme and Shopify dev store access you'll have everything you need to do the test with minimal setup. We're looking for perfection, knowledge and problem solving skills.
 
 If you have any questions please feel free to reach out to me Abhishek Rajan a.rajan@transformertable.com
 
