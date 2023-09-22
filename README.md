@@ -9,7 +9,7 @@ We'll be looking for the following requirements:
 * Use this repo as a base theme
 * Use github to keep track of your changes, opening a PR would be a great idea!
 * The section is Shopify OS2.0 compatible
-* All code (Liquid/HTML, CSS, and JS) is clean, semantic, well organized, and doesn't introduce unnecessary bloat
+* All code (Liquid/HTML, TailwindCss, and JS) is clean, semantic, well organized, and doesn't introduce unnecessary bloat
 * Layout is fully responsive and looks good at all browser sizes
 * Code uses modern features supported by a majority of ever green browsers
 * Product items/cards should be built from scratch, don't reuse the cards already built into the theme :)
