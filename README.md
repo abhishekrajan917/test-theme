@@ -15,7 +15,8 @@ We'll be looking for the following requirements:
 * Product items/cards should be built from scratch, don't reuse the cards already built into the theme :)
 
 ## Test Submission
-Feel free to do this on your own dev store and it would be best if you create a branch from main and once you are done, create a pull request to main. Let us know when it's ready to check out.
+Feel free to do this on your own dev store but we will provide a collaborator account access to a dev store already populated with products. I
+t would be best if you create a branch from main and once you are done, create a pull request to main. Let us know when it's ready to check out.
 
 Your PR can include an explanation for anything that might need some extra clarity.
 
